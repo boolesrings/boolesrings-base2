@@ -1,0 +1,28 @@
+{
+  "name": "boolesrings-base2",
+  "version": "1.0.0",
+  "description": "Building boolesrings.org",
+  "keywords": [
+    "blog",
+    "math",
+    "feed",
+    "planet"
+  ],
+  "maintainers": [
+    "Samuel Coskey",
+    "Peter Krautzberger"
+  ],
+  "bugs": {
+    "url": "https://github.com/boolesrings/boolesrings-base2"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/boolesrings/boolesrings-base2.git"
+  },
+  "dependencies": {
+    "rss": "^1.2.2",
+    "rss-parser": "^3.9.0"
+  },
+  "main": "app.js"
+}
